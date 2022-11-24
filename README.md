@@ -1,12 +1,12 @@
-# Project : Country Flags Info
+# Project : Weather App
 
 ## Animation of the Website
 
-![image](./flag.gif)
+![image](./weather.gif)
 
 ## Visulation of the Website
 
-![image](./flag.jpg)
+![image](./weather.jpg)
 
 ## Description
 
